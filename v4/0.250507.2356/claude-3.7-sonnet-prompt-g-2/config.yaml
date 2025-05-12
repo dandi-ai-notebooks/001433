@@ -1,0 +1,4 @@
+dandiset_id: '001433'
+model: anthropic/claude-3.7-sonnet
+prompt: prompt-g-2
+version: 0.250507.2356
